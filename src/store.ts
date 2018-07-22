@@ -1,6 +1,6 @@
 import Vue from 'vue';
 import Vuex from 'vuex';
-import PouchDB from './models/pouch'
+import PouchDB from './models/pouch.ts'
 import UUID from 'uuid/v1'
 // import { isContext } from 'vm';
 

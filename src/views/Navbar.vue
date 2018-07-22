@@ -8,7 +8,7 @@
                                 <router-link class="button-1" to="/" style="color: white" >
                                         <i class="fa fa-2x fa-times"></i>
                                 </router-link>
-                                <span class="button-2" to="/" style="color: white">
+                                <span class="button-2" to="/" style="color: white" @click="save">
                                         <i class="fa fa-2x fa-check"></i>
                                 </span>
                         </div>
